@@ -11,7 +11,7 @@ CocktailBuddy is an app that fetches cocktails from the Cocktails DB API and dis
 
 ## Demo
 
-Check out the live demo coming soon....
+Check out the live demo `https://cocktailbuddyapp.netlify.app`
 
 ## Installation
 
